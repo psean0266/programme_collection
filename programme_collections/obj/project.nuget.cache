@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lki51vKPvbOSaGL5d6wZf2Q3djVPXIDvflyZb4ZLn1PeNM6kvwcXje3N4885NEMRqnkOMf0UTgddS3ZjjdpKcQ==",
+  "dgSpecHash": "BinpaRAa1aCKMcdVadz+Y6Lls/RE6d4S07MziuQpl8M1Kb4fGMU7UDQYL/DrXcGybnYnwTLrG1kvgRGP2VRMrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AbdoulayePangnonKOUL\\source\\repos\\Jonathan\\programme_collections\\programme_collections\\programme_collections.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kouli\\source\\repos\\programme_collection\\programme_collections\\programme_collections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kouli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kouli\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kouli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kouli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
